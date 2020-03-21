@@ -1,0 +1,2 @@
+rootProject.name='StringToSHA-256'
+include ':app'
